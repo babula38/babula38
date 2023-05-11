@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything **<a href="https://github.com/babula38/babula38/issues">here</a>**
 
 <!-- - 📫 How to reach me **<a href="https://github.com/babula38/babula38/issues">here</a>** -->
-
+<!--
 ### 🛠 &nbsp;Languages and Tools
 
 <code>
