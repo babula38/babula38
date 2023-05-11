@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 
 ### 🛠 &nbsp;Languages and Tools
 
-<code><img height="30" src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.jpg">
+<code>
+	<img height="30" src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.jpg">
 </code>
 <br>
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
@@ -49,7 +50,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/babula38">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=babula38&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=babula38&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=babula38&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=babula38&layout=compact&langs_count=8"/>
 </a>
 </p>
